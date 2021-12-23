@@ -1,0 +1,3 @@
+>>>>>>>> Desafio da plataforma DIO
+
+- Primeiros passos com GIT.
